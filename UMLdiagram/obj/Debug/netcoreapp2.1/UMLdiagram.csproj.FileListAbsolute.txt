@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/bin/Debug/netcoreapp2.1/UMLdiagram.deps.json
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/bin/Debug/netcoreapp2.1/UMLdiagram.runtimeconfig.json
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/bin/Debug/netcoreapp2.1/UMLdiagram.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/bin/Debug/netcoreapp2.1/UMLdiagram.dll
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/bin/Debug/netcoreapp2.1/UMLdiagram.pdb
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.AssemblyInfo.cs
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.dll
+/home/master/Documents/bootcamp/2020.02.04 UML_Diagram/UMLdiagram/obj/Debug/netcoreapp2.1/UMLdiagram.pdb
